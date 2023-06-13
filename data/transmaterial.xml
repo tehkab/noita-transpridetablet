@@ -1,0 +1,14 @@
+<Materials>
+  <CellDataChild
+    _parent="material_rainbow"
+    name="material_trans_pride"
+    ui_name="$mat_trans_pride"
+    wang_color="B0FFA2CD"
+    >
+    <Graphics 
+	texture_file="data/materials_gfx/transrainbow.png" 
+	color="B0FFA2CD"
+	fire_colors_index="2" >
+    </Graphics>
+  </CellDataChild>
+</Materials>
