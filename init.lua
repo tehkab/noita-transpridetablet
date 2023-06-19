@@ -1,4 +1,4 @@
-local content = ModTextFileGetContent("mods/transpridetablet/data/entities/items/books/base_bookPURP.xml")
+local content = ModTextFileGetContent("mods/transpridetablet/data/entities/items/books/base_book_transpride.xml")
 ModTextFileSetContent("data/entities/items/books/base_book.xml", content)
 ModMaterialsFileAdd("mods/transpridetablet/data/transmaterial.xml")
 

@@ -23,7 +23,7 @@
 	<PhysicsImageShapeComponent
 		body_id="1"
 		centered="1"
-		image_file="mods/transpridetablet/data/items_gfx/emerald_tabletPURP.png"
+		image_file="mods/transpridetablet/data/items_gfx/emerald_tablet_transpride.png"
 		material="rock_box2d_hard"
 	></PhysicsImageShapeComponent>
 
@@ -48,7 +48,7 @@
 		max_child_items="0"
 		is_pickable="1"
 		is_equipable_forced="1"
-		ui_sprite="mods/transpridetablet/data/ui_gfx/items/emerald_tabletPURP.png"
+		ui_sprite="mods/transpridetablet/data/ui_gfx/items/emerald_tablet_transpride.png"
 		preferred_inventory="QUICK"
 		item_name="$booktitle01"
 		ui_description="$bookdesc01"
@@ -59,7 +59,7 @@
 		_enabled="0"
 		offset_x="4"
 		offset_y="4"
-		image_file="mods/transpridetablet/data/items_gfx/in_hand/emerald_tablet_in_handPURP.png"
+		image_file="mods/transpridetablet/data/items_gfx/in_hand/emerald_tablet_in_hand_transpride.png"
 	></SpriteComponent>
 
 	<HitboxComponent
